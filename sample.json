@@ -1,0 +1,137 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Newport News: Condition of teacher shot by child improving",
+    "description": "Abby Zwerner suffered life-threatening injuries after being shot by a six-year-old student on Friday.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-64200873",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17568/production/_128229559_zwerner.jpg",
+    "publishedAt": "2023-01-08T02:07:17.4576846Z",
+    "content": "The condition of a Virginia teacher left seriously injured when she was shot by a six-year-old pupil has shown signs of improvement, authorities say.\r\nAbby Zwerner suffered life-threatening injuries … [+2826 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "China suspends social media accounts of Covid policy critics",
+    "description": "Social media platform Weibo says it acted over personal attacks against Chinese Covid experts.",
+    "url": "http://www.bbc.co.uk/news/world-asia-china-64198313",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12DE2/production/_128228277_mediaitem128228273.jpg",
+    "publishedAt": "2023-01-08T01:37:17.6924547Z",
+    "content": "China has taken down more than 1,000 social media accounts - some with millions of followers - that criticised the government's Covid policies.\r\nSocial media platform Weibo said it had suspended or b… [+2033 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Gender-neutral Oscars inevitable - Sam Mendes",
+    "description": "The film director tells Sunday with Laura Kuenssberg he has \"total sympathy\" with the idea.",
+    "url": "http://www.bbc.co.uk/news/entertainment-arts-64199673",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DE32/production/_128228865_p0dtwbwk.jpg",
+    "publishedAt": "2023-01-08T01:37:15.4570805Z",
+    "content": "WATCH: William and Harry, a life in the spotlight. Video, 00:01:36WATCH: William and Harry, a life in the spotlight"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC Sport",
+    "title": "Raiders & Chiefs in displays of support for Hamlin",
+    "description": "The Las Vegas Raiders and the Kansas City Chiefs show support for Damar Hamlin before the first NFL game since the Buffalo Bills safety collapsed.",
+    "url": "http://www.bbc.co.uk/sport/american-football/64200806",
+    "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/D798/production/_128229155_gettyimages-1454867830.jpg",
+    "publishedAt": "2023-01-08T00:52:23.4928544Z",
+    "content": "Kansas City Chiefs quarterback Patrick Mahomes wore a pre-game top in support of Damar Hamlin\r\nThe Las Vegas Raiders and the Kansas City Chiefs showed support for Damar Hamlin before the first NFL ga… [+3403 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Fan outrage at Susan Meachen, the romance novelist accused of faking her death",
+    "description": "The drama surrounding author Susan Meachen's alleged death hoax is stranger than fiction.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-64179548",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14912/production/_128224248_gettyimages-94381370.jpg",
+    "publishedAt": "2023-01-08T00:07:21.6649912Z",
+    "content": "No one saw this plot twist coming. \r\nIn September 2020, a Facebook post from someone claiming to be the daughter of indie romance author Susan Meachen announced the writer had died by suicide. \r\nMs M… [+5571 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ana Montes: Top spy freed in US after more than 20 years",
+    "description": "Ana Montes was described as being among \"the most damaging spies\" ever caught by the US.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-64200872",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7E88/production/_128229323_ana_montes.jpg",
+    "publishedAt": "2023-01-07T23:52:21.8852987Z",
+    "content": "Ana Montes - among the best-known Cold War spies caught by the US - has been released from prison after more than 20 years in custody.\r\nThe 65-year-old spent almost two decades spying for Cuba while … [+3088 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Prince Harry says he cried once after Diana death",
+    "description": "In a new clip, he also speaks about how difficult it was to meet the public after his mother died.",
+    "url": "http://www.bbc.co.uk/news/uk-64197679",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1560A/production/_128226578_ab541b348beb5fb8e0060c551873f506673ecc37.jpg",
+    "publishedAt": "2023-01-07T22:22:24.6972478Z",
+    "content": "Prince Harry has revealed he only cried once over the death of his mother, Diana, the Princess of Wales, in 1997.\r\nIn a new interview clip promoting the publication of his autobiography Spare, Prince… [+3222 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ukraine war: The Christmas ceasefire that wasn't",
+    "description": "Few in Ukraine's eastern city of Bakhmut expected Russia's declared truce to be matched with action.",
+    "url": "http://www.bbc.co.uk/news/world-europe-64199649",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CFBE/production/_128228135_67f01094ec681502675f21f388d06608bf8cb4e70_0_6000_40001000x667.jpg",
+    "publishedAt": "2023-01-07T17:37:22.3067432Z",
+    "content": "The drive from Kostyantynivka to Bakhmut is like dropping off a cliff of civilisation. \r\nThe \"pops\" of outgoing tank fire tell you you're getting close to one of the most active parts of the front li… [+2693 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Filippo Bernardini: Italian admits stealing unpublished books",
+    "description": "Margaret Atwood, Sally Rooney and Ethan Hawke were all targets of phishing scams.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-64197625",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0B88/production/_128225920_mediaitem128225916.jpg",
+    "publishedAt": "2023-01-07T12:37:20.5089856Z",
+    "content": "An Italian man has admitted stealing more than 1,000 unpublished manuscripts, many written by high-profile authors. \r\nFilippo Bernardini impersonated figures from the publishing industry to trick peo… [+1619 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Iran hangs two more protesters",
+    "description": "Family members said they did not get to meet with the men before their execution.",
+    "url": "http://www.bbc.co.uk/news/world-middle-east-64196635",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5023/production/_128051502_mohammadhosseini.jpg",
+    "publishedAt": "2023-01-07T10:07:20.1504383Z",
+    "content": "Two men have been hanged in Iran for allegedly killing a member of the military during nationwide protests.\r\nMohammad Mahdi Karami and Seyed Mohammad Hosseini were found guilty of \"corruption on eart… [+2322 chars]"
+    }
+    ]
+    }
+    
